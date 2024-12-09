@@ -1,5 +1,4 @@
 <h1>Group Activity 3: Infographic on a Security Concept </h1>
-<h6>Click "View raw" within each lab to download labs.</h6>
 In this group, we did not communicate greatly. The core of the project was to collectively design an infographic relating to one of the topics listed below. While I did create my own to submit, I chose to take my missing grade.
 <br>
 It was interesting to research more into virus and how they operate. I always knew that pretty much any .exe file can be a virus, but I did not knwo that PDF files could potentially have them. This activity did allow me to gain knowledge, but I do wish that our group could have collectively done the project together.
